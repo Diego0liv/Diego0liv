@@ -1,155 +1,128 @@
-<h1 align="center">Diego Oliveira 👨‍💻</h1>
+<h1 align="center">👨‍💻 Diego Oliveira</h1>
 
 <p align="center">
-Desenvolvedor Web Júnior | PHP • MySQL • JavaScript • React  
-Suporte Técnico N2 | Infraestrutura • Sistemas • APIs  
-📍 Brasília - DF | Em transição sólida para Desenvolvimento
+Desenvolvedor Web Júnior | PHP • MySQL • JavaScript • React
+</p>
+
+<p align="center">
+📍 Brasília - DF • 📧 diego.oliv.cas@gmail.com  
+🔗 <a href="https://www.linkedin.com/in/disoliveira">LinkedIn</a>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou profissional de TI com experiência consolidada em **suporte técnico N2**, atuando diretamente com **ambientes produtivos, análise de incidentes e sustentação de sistemas**.
+Sou Desenvolvedor Web Júnior em transição da área de suporte técnico, com experiência sólida em resolução de problemas, análise de sistemas e atendimento em ambientes críticos.
 
-Atualmente, estou em transição para desenvolvimento web, com foco em **back-end (PHP/MySQL)** e **front-end moderno (React/JavaScript)**, aplicando na prática tudo que estudo através de projetos reais e publicados.
+Atualmente desenvolvo aplicações web com foco em **back-end e integração com banco de dados**, utilizando tecnologias como **PHP, MySQL, JavaScript e React**.
 
-Tenho certificações em **ITIL®** e **ISO/IEC 27001**, o que reforça minha visão de **boas práticas, segurança da informação e qualidade em software**.
+Minha experiência com suporte N2 me trouxe uma base forte em:
+- Diagnóstico de problemas complexos  
+- Pensamento lógico e analítico  
+- Resolução eficiente de falhas em sistemas  
 
-💡 Diferencial: Não estudo só teoria — **eu construo, publico e automatizo soluções reais.**
-
----
-
-## 🌐 Projetos em Produção (Online)
-
-🔗 https://gnomotech.celeirodasantas.com.br/  
-🔗 https://celeirodasantas.com.br/
-
-**O que desenvolvi nesses projetos:**
-- Estrutura completa de site institucional
-- Integração com WhatsApp para geração de leads
-- Interface responsiva e otimizada
-- Deploy e manutenção em ambiente real
+🎯 Objetivo: conquistar minha primeira oportunidade como desenvolvedor e evoluir em projetos reais, contribuindo com soluções eficientes e escaláveis.
 
 ---
 
-## 💻 Projetos Práticos (Portfólio)
+## 🧠 Stack Tecnológica
 
-### 🔎 Sistema de Busca + Contato Automático (WhatsApp)
-- Automação de busca de empresas (leads)
-- Extração de dados relevantes
-- Integração com envio de mensagens via WhatsApp
-- Foco em geração de oportunidades comerciais
+### 💻 Back-end
+- PHP (CRUD, APIs REST)
+- Integração com banco de dados
+- Estruturação de sistemas
 
-🧠 Tecnologias:
-- JavaScript / Python
-- Automação de navegação
-- Manipulação de dados
+### 🎨 Front-end
+- HTML5 • CSS3  
+- JavaScript (ES6+)  
+- React (componentização e consumo de APIs)
 
----
+### 🗄️ Banco de Dados
+- MySQL  
+- Modelagem de dados  
+- Queries e manipulação de dados  
 
-### 🛒 Sistema Web (CRUD + Estrutura de Negócio)
-- Cadastro e gerenciamento de dados
-- Integração com banco MySQL
-- Estrutura de back-end com PHP
-- Base para sistemas como ERP / vendas
-
----
-
-### 📊 Dashboard com APIs
-- Consumo de APIs públicas
-- Interface dinâmica
-- Atualização em tempo real
+### ⚙️ Ferramentas
+- Git & GitHub  
+- Linux  
+- Postman / Insomnia  
 
 ---
 
-## 🧠 Experiência Profissional
+## 📂 Projetos em Destaque
 
-**Central IT** – Suporte Técnico  
-📅 Mai 2025 – Set 2025  
-
-- Atendimento a usuários e sistemas críticos  
-- Diagnóstico e resolução de incidentes  
-- Atuação em ambiente corporativo  
+### 🛒 Sistema de E-commerce (em desenvolvimento)
+- CRUD completo de produtos  
+- Integração com banco de dados MySQL  
+- Estrutura organizada para escalabilidade  
 
 ---
 
-**Montreal Oficial** – Suporte Técnico N2  
-📅 Fev 2024 – Mai 2025  
-
-- Sustentação de sistemas em produção  
-- Análise técnica e troubleshooting  
-- Apoio a times de desenvolvimento  
+### 📊 Dashboard com API
+- Consumo de API REST  
+- Exibição dinâmica de dados  
+- Interface com React  
 
 ---
 
-**CTC** – Técnico de Suporte  
-📅 Ago 2023 – Fev 2024  
-
-**Saitec** – Suporte Técnico  
-📅 Fev 2023 – Jul 2023  
-
-**Exército Brasileiro** – Auxiliar de TI  
-📅 Mar 2019 – Fev 2023  
-
-- Experiência sólida com infraestrutura  
-- Suporte a usuários e redes  
-- Disciplina operacional e organização  
+### 🤖 Sistema de Automação de Leads
+- Coleta automatizada de dados  
+- Processamento e organização de informações  
+- Estrutura backend + automação  
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## 💼 Experiência Profissional
 
-**Back-end**
-- PHP
-- MySQL
+💼 **Suporte Técnico N2**  
+- Análise e resolução de incidentes críticos  
+- Manutenção de hardware e software  
+- Suporte a redes e sistemas corporativos  
+- Atendimento a usuários em larga escala  
 
-**Front-end**
-- JavaScript
-- React
-- HTML5
-- CSS3
-
-**Outros**
-- Git / GitHub
-- APIs REST
-- Automação de processos
-- Integração com WhatsApp
+📈 Experiência construída em empresas como:
+- Central IT  
+- Montreal  
+- CTC  
+- Saitec  
 
 ---
 
-## 🏆 Certificações
+## 📜 Certificações
 
-- 📄 ITIL® Foundation – PeopleCert  
-- 📄 ISO/IEC 27001 Information Security Associate™ – SkillFront  
+- ITIL® Foundation  
+- ISO 27001  
+- Linux Experience  
+- Técnico em Back-End  
+- Técnico em Web Design  
+- Técnico em Manutenção e Suporte  
 
 ---
 
 ## 🎓 Formação
 
-**Escola Técnica de Brasília**  
-📚 CST em Tecnologia da Informação  
-📅 Em andamento  
+🎓 Tecnologia da Informação  
+Escola Técnica de Brasília  
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Diego0liv&show_icons=true&theme=react&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego0liv&layout=compact&theme=react" />
-</div>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📫 Contato
+## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-AQUI)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+📧 diego.oliv.cas@gmail.com  
+📱 (61) 99865-5648  
 
 ---
 
 <p align="center">
-🚀 Buscando oportunidade como Desenvolvedor Júnior  
-💼 Aberto a projetos freelance e desafios reais  
+🚀 Em constante evolução como desenvolvedor
 </p>
