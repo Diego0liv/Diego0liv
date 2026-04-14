@@ -1,43 +1,65 @@
-<h1 align="center">Olá, eu sou Diego Oliveira 👨‍💻</h1>
+<h1 align="center">Diego Oliveira 👨‍💻</h1>
+
 <p align="center">
-Desenvolvedor Júnior | PHP • MySQL • React | Suporte Técnico N2  
-Brasília - DF 🌎 | Em transição de carreira para Desenvolvimento Web
+Desenvolvedor Web Júnior | PHP • MySQL • JavaScript • React  
+Suporte Técnico N2 | Infraestrutura • Sistemas • APIs  
+📍 Brasília - DF | Em transição sólida para Desenvolvimento
 </p>
 
 ---
 
-## 👨‍💼 Sobre mim
+## 🚀 Sobre mim
 
-Sou profissional de TI com forte background em suporte técnico N2 e estou em transição para desenvolvimento web. Possuo experiência prática com PHP, MySQL, JavaScript e React, além de certificações em **ITIL** e **ISO/IEC 27001** que reforçam meu compromisso com qualidade e boas práticas.
+Sou profissional de TI com experiência consolidada em **suporte técnico N2**, atuando diretamente com **ambientes produtivos, análise de incidentes e sustentação de sistemas**.
 
-Atualmente estou desenvolvendo meu portfólio com projetos como:
+Atualmente, estou em transição para desenvolvimento web, com foco em **back-end (PHP/MySQL)** e **front-end moderno (React/JavaScript)**, aplicando na prática tudo que estudo através de projetos reais e publicados.
 
-- CRUDs completos com PHP e MySQL
-- Dashboards dinâmicos integrando APIs públicas
-- Sistema de e-commerce básico e responsivo
-- Site institucional com **HTML5, CSS3 e JavaScript**
+Tenho certificações em **ITIL®** e **ISO/IEC 27001**, o que reforça minha visão de **boas práticas, segurança da informação e qualidade em software**.
 
-🎯 Busco minha primeira oportunidade como **Desenvolvedor Júnior** para aplicar minhas habilidades técnicas e crescer junto com a equipe.
+💡 Diferencial: Não estudo só teoria — **eu construo, publico e automatizo soluções reais.**
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 🌐 Projetos em Produção (Online)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🔗 https://gnomotech.celeirodasantas.com.br/  
+🔗 https://celeirodasantas.com.br/
+
+**O que desenvolvi nesses projetos:**
+- Estrutura completa de site institucional
+- Integração com WhatsApp para geração de leads
+- Interface responsiva e otimizada
+- Deploy e manutenção em ambiente real
 
 ---
 
-## 🏆 Certificações
+## 💻 Projetos Práticos (Portfólio)
 
-- 📄 **ITIL® Foundation** – PeopleCert  
-- 📄 **ISO/IEC 27001 Information Security Associate™** – SkillFront  
+### 🔎 Sistema de Busca + Contato Automático (WhatsApp)
+- Automação de busca de empresas (leads)
+- Extração de dados relevantes
+- Integração com envio de mensagens via WhatsApp
+- Foco em geração de oportunidades comerciais
+
+🧠 Tecnologias:
+- JavaScript / Python
+- Automação de navegação
+- Manipulação de dados
+
+---
+
+### 🛒 Sistema Web (CRUD + Estrutura de Negócio)
+- Cadastro e gerenciamento de dados
+- Integração com banco MySQL
+- Estrutura de back-end com PHP
+- Base para sistemas como ERP / vendas
+
+---
+
+### 📊 Dashboard com APIs
+- Consumo de APIs públicas
+- Interface dinâmica
+- Atualização em tempo real
 
 ---
 
@@ -46,8 +68,20 @@ Atualmente estou desenvolvendo meu portfólio com projetos como:
 **Central IT** – Suporte Técnico  
 📅 Mai 2025 – Set 2025  
 
-**Montreal Oficial** – Técnico de Suporte N2  
+- Atendimento a usuários e sistemas críticos  
+- Diagnóstico e resolução de incidentes  
+- Atuação em ambiente corporativo  
+
+---
+
+**Montreal Oficial** – Suporte Técnico N2  
 📅 Fev 2024 – Mai 2025  
+
+- Sustentação de sistemas em produção  
+- Análise técnica e troubleshooting  
+- Apoio a times de desenvolvimento  
+
+---
 
 **CTC** – Técnico de Suporte  
 📅 Ago 2023 – Fev 2024  
@@ -56,7 +90,38 @@ Atualmente estou desenvolvendo meu portfólio com projetos como:
 📅 Fev 2023 – Jul 2023  
 
 **Exército Brasileiro** – Auxiliar de TI  
-📅 Mar 2019 – Fev 2023
+📅 Mar 2019 – Fev 2023  
+
+- Experiência sólida com infraestrutura  
+- Suporte a usuários e redes  
+- Disciplina operacional e organização  
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+**Back-end**
+- PHP
+- MySQL
+
+**Front-end**
+- JavaScript
+- React
+- HTML5
+- CSS3
+
+**Outros**
+- Git / GitHub
+- APIs REST
+- Automação de processos
+- Integração com WhatsApp
+
+---
+
+## 🏆 Certificações
+
+- 📄 ITIL® Foundation – PeopleCert  
+- 📄 ISO/IEC 27001 Information Security Associate™ – SkillFront  
 
 ---
 
@@ -64,16 +129,7 @@ Atualmente estou desenvolvendo meu portfólio com projetos como:
 
 **Escola Técnica de Brasília**  
 📚 CST em Tecnologia da Informação  
-📅 Início: 2023
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🔗 [GnomooTech – Site Institucional](https://github.com/Diego0liv/GnomooTech)
-> Projeto de site institucional responsivo com HTML5, CSS3, JS  
-> 🧰 Integração com CountAPI e WhatsApp API  
-> 🔎 [Visualizar Online](https://diego0liv.github.io/GnomooTech/)
+📅 Em andamento  
 
 ---
 
@@ -86,11 +142,14 @@ Atualmente estou desenvolvendo meu portfólio com projetos como:
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link-aqui)
-[![Email](https://img.shields.io/badge/Email-diego@email.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-AQUI)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
 
 ---
 
-<p align="center">✨ Em busca de oportunidades como Desenvolvedor Júnior ✨</p>
+<p align="center">
+🚀 Buscando oportunidade como Desenvolvedor Júnior  
+💼 Aberto a projetos freelance e desafios reais  
+</p>
