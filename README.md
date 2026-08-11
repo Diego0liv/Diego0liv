@@ -139,12 +139,13 @@ Ambiente próprio para hospedar sites, bancos de dados, aplicações web e servi
 
 ---
 
-## Estatísticas do GitHub
+## Resumo em números
 
-<p align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Diego0liv&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub de Diego Oliveira"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego0liv&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais utilizadas por Diego Oliveira"/>
-</p>
+| Experiência | Escala de suporte | Ambientes atendidos | Projetos principais |
+|---|---|---|---|
+| Mais de 8 anos em TI | Ambiente com mais de 800 usuários | Corporativo, educacional, governamental e hospitalar | ERP/PDV, portal Minecraft, OSGnomo e infraestrutura GnomoTech |
+
+Esse resumo utiliza informações verificadas no currículo e não depende de imagens ou serviços externos.
 
 ---
 
