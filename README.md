@@ -1,128 +1,93 @@
-<h1 align="center">👨‍💻 Diego Oliveira</h1>
+<h1 align="center">Diego Oliveira</h1>
 
 <p align="center">
-Desenvolvedor Web Júnior | PHP • MySQL • JavaScript • React
+<strong>Analista de Suporte N2 e Infraestrutura | Desenvolvedor Backend Python e Node.js</strong>
 </p>
 
 <p align="center">
-📍 Brasília - DF • 📧 diego.oliv.cas@gmail.com  
-🔗 <a href="https://www.linkedin.com/in/disoliveira">LinkedIn</a>
-</p>
-
----
-
-## 🚀 Sobre mim
-
-Sou Desenvolvedor Web Júnior em transição da área de suporte técnico, com experiência sólida em resolução de problemas, análise de sistemas e atendimento em ambientes críticos.
-
-Atualmente desenvolvo aplicações web com foco em **back-end e integração com banco de dados**, utilizando tecnologias como **PHP, MySQL, JavaScript e React**.
-
-Minha experiência com suporte N2 me trouxe uma base forte em:
-- Diagnóstico de problemas complexos  
-- Pensamento lógico e analítico  
-- Resolução eficiente de falhas em sistemas  
-
-🎯 Objetivo: conquistar minha primeira oportunidade como desenvolvedor e evoluir em projetos reais, contribuindo com soluções eficientes e escaláveis.
-
----
-
-## 🧠 Stack Tecnológica
-
-### 💻 Back-end
-- PHP (CRUD, APIs REST)
-- Integração com banco de dados
-- Estruturação de sistemas
-
-### 🎨 Front-end
-- HTML5 • CSS3  
-- JavaScript (ES6+)  
-- React (componentização e consumo de APIs)
-
-### 🗄️ Banco de Dados
-- MySQL  
-- Modelagem de dados  
-- Queries e manipulação de dados  
-
-### ⚙️ Ferramentas
-- Git & GitHub  
-- Linux  
-- Postman / Insomnia  
-
----
-
-## 📂 Projetos em Destaque
-
-### 🛒 Sistema de E-commerce (em desenvolvimento)
-- CRUD completo de produtos  
-- Integração com banco de dados MySQL  
-- Estrutura organizada para escalabilidade  
-
----
-
-### 📊 Dashboard com API
-- Consumo de API REST  
-- Exibição dinâmica de dados  
-- Interface com React  
-
----
-
-### 🤖 Sistema de Automação de Leads
-- Coleta automatizada de dados  
-- Processamento e organização de informações  
-- Estrutura backend + automação  
-
----
-
-## 💼 Experiência Profissional
-
-💼 **Suporte Técnico N2**  
-- Análise e resolução de incidentes críticos  
-- Manutenção de hardware e software  
-- Suporte a redes e sistemas corporativos  
-- Atendimento a usuários em larga escala  
-
-📈 Experiência construída em empresas como:
-- Central IT  
-- Montreal  
-- CTC  
-- Saitec  
-
----
-
-## 📜 Certificações
-
-- ITIL® Foundation  
-- ISO 27001  
-- Linux Experience  
-- Técnico em Back-End  
-- Técnico em Web Design  
-- Técnico em Manutenção e Suporte  
-
----
-
-## 🎓 Formação
-
-🎓 Tecnologia da Informação  
-Escola Técnica de Brasília  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+Brasília - DF •
+<a href="https://www.linkedin.com/in/disoliveira">LinkedIn</a> •
+<a href="mailto:diego.oliv.cas@gmail.com">E-mail</a>
 </p>
 
 ---
 
-## 📬 Contato
+## Sobre mim
 
-📧 diego.oliv.cas@gmail.com  
-📱 (61) 99865-5648  
+Profissional de Tecnologia da Informação com experiência em **Suporte Técnico N1/N2, infraestrutura, redes e atendimento a usuários** em ambientes corporativos. Trabalho com diagnóstico e solução de incidentes, manutenção de hardware e software, Windows, Linux e Active Directory.
+
+Também desenvolvo aplicações web voltadas a problemas reais de negócio, com foco em **backend, bancos de dados, segurança e implantação em servidores**. Atuo em projetos próprios e na GnomoTech, unindo experiência prática de suporte com desenvolvimento de software.
+
+Busco oportunidades em **Suporte N2, Infraestrutura de TI ou Desenvolvimento Backend Júnior**.
 
 ---
 
+## Competências técnicas
+
+- **Backend:** Python, FastAPI, Node.js, TypeScript, Fastify, APIs REST
+- **Bancos de dados:** PostgreSQL, SQLite, SQLAlchemy, Alembic e SQL
+- **Infraestrutura:** Windows, Linux, Active Directory, redes, Docker e servidores
+- **Frontend:** HTML, CSS, JavaScript, Jinja2 e EJS
+- **Ferramentas:** Git, GitHub, Postman, troubleshooting e documentação técnica
+- **Práticas:** segurança de aplicações, migrations, testes automatizados e controle de versão
+
+---
+
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [ERP/PDV Camisetas Multimarcas](https://github.com/Diego0liv/camisetas-multimarcas-erp) | Sistema completo para loja de roupas com produtos, estoque por grade, clientes, caixa, vendas, pagamentos, financeiro e relatórios. | Python, FastAPI, SQLAlchemy, Alembic, PostgreSQL, Docker |
+| [Minecraft Access Portal](https://github.com/Diego0liv/minecraft-access-portal) | Portal seguro para cadastro de jogadores, confirmação de e-mail e integração automática com whitelist por RCON. | Node.js, TypeScript, Fastify, PostgreSQL, Vitest, Docker |
+| [OSGnomo](https://github.com/Diego0liv/osgnomo) | Sistema para gestão de assistência técnica, clientes, equipamentos e ordens de serviço. | Python, FastAPI, SQLAlchemy, Alembic, SQLite |
+
+---
+
+## Experiência profissional
+
+### Suporte Técnico N1/N2 e Infraestrutura
+
+- Atendimento presencial e remoto a usuários
+- Diagnóstico e resolução de incidentes de hardware, software e redes
+- Administração de usuários e permissões no Active Directory
+- Suporte a Windows e Linux em ambientes corporativos
+- Instalação, configuração e manutenção de computadores e notebooks
+- Registro de chamados, documentação e acompanhamento de soluções
+
+### GnomoTech — Soluções em TI
+
+- Manutenção e suporte para computadores e notebooks
+- Criação, hospedagem e manutenção de sites e sistemas
+- Administração de servidores Linux e serviços Docker
+- Desenvolvimento de soluções para pequenos negócios
+
+---
+
+## Formação e conhecimentos
+
+- Tecnologia da Informação — Escola Técnica de Brasília
+- ITIL Foundation
+- ISO 27001
+- Linux
+- Back-end, Web Design e Manutenção e Suporte
+
+---
+
+## Estatísticas do GitHub
+
 <p align="center">
-🚀 Em constante evolução como desenvolvedor
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Diego0liv&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub de Diego Oliveira"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego0liv&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais utilizadas por Diego Oliveira"/>
+</p>
+
+---
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/disoliveira)
+- [E-mail](mailto:diego.oliv.cas@gmail.com)
+- [GitHub](https://github.com/Diego0liv)
+
+<p align="center">
+Desenvolvendo soluções, documentando o processo e evoluindo continuamente.
 </p>
